@@ -1,0 +1,8 @@
+a=input('введите строку 1 ')
+c=len(a)
+print(c)
+b=input('введите строку 2  ')
+d=len(b)
+print(d)
+print(a,b)
+print(c,'+',d,'=',c+d)
